@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yunny\\Desktop\\PROYECTO D3\\Prueba_skins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FD1C71-D6C9-402E-A603-E9CCB74CCABB}|Prueba_skins2\\Prueba_skins2.csproj|c:\\users\\yunny\\desktop\\proyecto d3\\prueba_skins\\prueba_skins2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FD1C71-D6C9-402E-A603-E9CCB74CCABB}|Prueba_skins2\\Prueba_skins2.csproj|solutionrelative:prueba_skins2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FD1C71-D6C9-402E-A603-E9CCB74CCABB}|Prueba_skins2\\Prueba_skins2.csproj|C:\\Users\\Yunny\\Desktop\\PROYECTO D3\\Prueba_skins\\prueba_skins2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FD1C71-D6C9-402E-A603-E9CCB74CCABB}|Prueba_skins2\\Prueba_skins2.csproj|solutionrelative:prueba_skins2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FD1C71-D6C9-402E-A603-E9CCB74CCABB}|Prueba_skins2\\Prueba_skins2.csproj|C:\\Users\\Yunny\\Desktop\\PROYECTO D3\\Prueba_skins\\prueba_skins2\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7FD1C71-D6C9-402E-A603-E9CCB74CCABB}|Prueba_skins2\\Prueba_skins2.csproj|solutionrelative:prueba_skins2\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FD1C71-D6C9-402E-A603-E9CCB74CCABB}|Prueba_skins2\\Prueba_skins2.csproj|C:\\Users\\Yunny\\Desktop\\PROYECTO D3\\Prueba_skins\\prueba_skins2\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FD1C71-D6C9-402E-A603-E9CCB74CCABB}|Prueba_skins2\\Prueba_skins2.csproj|solutionrelative:prueba_skins2\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APP.cs",
+              "DocumentMoniker": "C:\\Users\\Yunny\\Desktop\\PROYECTO D3\\Prueba_skins\\Prueba_skins2\\APP.cs",
+              "RelativeDocumentMoniker": "Prueba_skins2\\APP.cs",
+              "ToolTip": "C:\\Users\\Yunny\\Desktop\\PROYECTO D3\\Prueba_skins\\Prueba_skins2\\APP.cs",
+              "RelativeToolTip": "Prueba_skins2\\APP.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAADGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:36:47.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yunny\\Desktop\\PROYECTO D3\\Prueba_skins\\Prueba_skins2\\APP.cs",
+              "RelativeDocumentMoniker": "Prueba_skins2\\APP.cs",
+              "ToolTip": "C:\\Users\\Yunny\\Desktop\\PROYECTO D3\\Prueba_skins\\Prueba_skins2\\APP.cs [Design]",
+              "RelativeToolTip": "Prueba_skins2\\APP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:36:35.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Yunny\\Desktop\\PROYECTO D3\\Prueba_skins\\Prueba_skins2\\Form1.cs",
+              "RelativeDocumentMoniker": "Prueba_skins2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yunny\\Desktop\\PROYECTO D3\\Prueba_skins\\Prueba_skins2\\Form1.cs*",
+              "RelativeToolTip": "Prueba_skins2\\Form1.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:31:45.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yunny\\Desktop\\PROYECTO D3\\Prueba_skins\\Prueba_skins2\\Form1.cs",
+              "RelativeDocumentMoniker": "Prueba_skins2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Yunny\\Desktop\\PROYECTO D3\\Prueba_skins\\Prueba_skins2\\Form1.cs [Design]*",
+              "RelativeToolTip": "Prueba_skins2\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:25:52.787Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

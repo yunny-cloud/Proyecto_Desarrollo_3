@@ -1,0 +1,13 @@
+C:\Users\Yunny\Desktop\PROYECTO D3\Prueba_skins\Prueba_skins2\bin\Debug\Prueba_skins2.exe.config
+C:\Users\Yunny\Desktop\PROYECTO D3\Prueba_skins\Prueba_skins2\bin\Debug\Prueba_skins2.exe
+C:\Users\Yunny\Desktop\PROYECTO D3\Prueba_skins\Prueba_skins2\bin\Debug\Prueba_skins2.pdb
+C:\Users\Yunny\Desktop\PROYECTO D3\Prueba_skins\Prueba_skins2\bin\Debug\MaterialSkin.dll
+C:\Users\Yunny\Desktop\PROYECTO D3\Prueba_skins\Prueba_skins2\obj\Debug\Prueba_skins2.csproj.AssemblyReference.cache
+C:\Users\Yunny\Desktop\PROYECTO D3\Prueba_skins\Prueba_skins2\obj\Debug\Prueba_skins2.Form1.resources
+C:\Users\Yunny\Desktop\PROYECTO D3\Prueba_skins\Prueba_skins2\obj\Debug\Prueba_skins2.Properties.Resources.resources
+C:\Users\Yunny\Desktop\PROYECTO D3\Prueba_skins\Prueba_skins2\obj\Debug\Prueba_skins2.csproj.GenerateResource.cache
+C:\Users\Yunny\Desktop\PROYECTO D3\Prueba_skins\Prueba_skins2\obj\Debug\Prueba_skins2.csproj.CoreCompileInputs.cache
+C:\Users\Yunny\Desktop\PROYECTO D3\Prueba_skins\Prueba_skins2\obj\Debug\Prueba_s.C18F0295.Up2Date
+C:\Users\Yunny\Desktop\PROYECTO D3\Prueba_skins\Prueba_skins2\obj\Debug\Prueba_skins2.exe
+C:\Users\Yunny\Desktop\PROYECTO D3\Prueba_skins\Prueba_skins2\obj\Debug\Prueba_skins2.pdb
+C:\Users\Yunny\Desktop\PROYECTO D3\Prueba_skins\Prueba_skins2\obj\Debug\Prueba_skins2.APP.resources

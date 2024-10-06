@@ -1,0 +1,71 @@
+----------------------------------------------------------------------------------------------------------------------
+							Fecha: 5/10/2024
+
+
+Notas de procedimiento de las secciones de la APP:
+
+·Para añadir clientes puedo usar un stored procedure para almacenar (la parte del saldo quedara en 0)
+
+·En la seccion de actividades sera usando logs
+
+·Para editar usuarios puedo usar otro stored procedure para editar la seccion de rol de la tabla perfiles
+
+·La seccion de archivos vendria a algo como el archi de LOG de DB
+
+·El boton de salir es lo simple
+
+
+
+Notas Login:
+
+·Para hacer las validaciones podria crear una funcion que revise en la base de datos para ver si el user
+ingresado y la contraseña son validos (retornar booleano).
+
+
+Notas Servicios:
+
+·Hasta ahora creo que la forma mas sencilla para gestionar los servicios es a travez de web services
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+·Para la barra de buscar cliente en la app principal, podria usar un stored procedure que implemente el comando LIKE
+
+·La seccion de servicios (Que muestra los servicios disponibles) debe
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+CREATE PROCEDURE [dbo].[UPSERT_PERSONAS]
+	@tipoDocumento int,
+	@documento varchar,
+	@nombres nvarchar,
+	@apellidos nvarchar,
+	@sexo bit,
+	@estadoCivil varchar,
+	@FNacimiento date,
+	@FIngreso date,
+	@Estado varchar
+AS
+   IF EXISTS (SELECT 1 FROM tblPersonas WHERE tipoDocumento = @tipoDocumento AND documento = @documento)
+
+   BEGIN
+   UPDATE tblPersonas SET estadoCivil = @estadoCivil
+   WHERE tipoDocumento = @tipoDocumento AND documento = @documento
+   END
+
+
+   ELSE 
+
+	BEGIN
+	INSERT INTO tblPersonas(tipoDocumento, documento, nombres, apellidos, sexo, estadoCivil, FNacimiento, FIngreso, Estado)
+        VALUES (@tipoDocumento, @documento, @nombres, @apellidos, @sexo, @estadoCivil, @FNacimiento, @FIngreso,@Estado);
+
+	END
+
+
+
+
